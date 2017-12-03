@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Astro Communication </title>
+  </head>
+<body>
+  <header>
+    <h1> Astro Tech Communication </h1>
+  </header>
+  <nav>
+    <ul>
+      <li>
+        <a href="file:///Users/jongjinbaik/Documents/Untitled">Home</a>
+      </li>
+      <li>
+        <a href="https://military.microsoft.com/programs/mssa/">About Us</a>
+      </li>
+      <li>
+        <a href=""></a>
+      </li>
+    </ul>
+  </nav>
+  <section>
+    <p>
+      this is the p under section</p>
+      </section>
+    <footer>
+      Offical Sponsor of Microsoft Corporation
+    </footer>
+</body>
+</html>
